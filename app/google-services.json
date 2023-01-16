@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134955187028",
+    "project_id": "exam-kotlin-b6a5c",
+    "storage_bucket": "exam-kotlin-b6a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134955187028:android:66aa6c2d6bffa6b556e6c1",
+        "android_client_info": {
+          "package_name": "com.example.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134955187028-o340huupkethrp9e4o028romrld9g1ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4b3lzG2KvibcTO0yX9zD9pIJZQEyCtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134955187028-o340huupkethrp9e4o028romrld9g1ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
